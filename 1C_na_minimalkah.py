@@ -1,6 +1,5 @@
 from sys import exit
 from tkinter import *
-from PyQt5 import QtCore, QtGui, QtWidgets
 
 def add_key(event):
     key = ent.get()
